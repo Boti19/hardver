@@ -1,1 +1,5 @@
-
+*box-sizing: border-box
+body {background-color:  ; repeat:no-repeat;  size:cover; position:fix}
+.header {display:flex; viewport:full;}
+.img_header_div {width:20%; border-radius:10%; backgorund color:rgba 255,255,0; opacity:0.6;}
+.title_header {width:60%; padding top:1em; text-size:2.5em 
