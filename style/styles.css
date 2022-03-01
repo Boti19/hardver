@@ -6,4 +6,7 @@ body {background-image: url("../pict/bg.jpg"); background-repeat:no-repeat;backg
 .img9et {width:100%; padding:10px; outline:3px solid black; border-radius:10%;}
 h1 {text-align: center; color:brown; text-shadow: 3px 3px 3px black;}
 nav {display:flex; flex-direction:row; justify-content:space-around; width:90%; margin-left:auto; margin-right: auto;padding:2em;background-color:rgba(255,255,0,0.6); margin-top:2em; box-shadow:3px 3px 3px black}
-.wrapper {width:94%;margin-left:auto; margin-right: auto;padding:2em; margin-top:2em; box-shadow:3px 3px 3px black; display:flex;flex-direction:row; justify-content:space-between; }
+.elso { margin-right:40px; text-align: justify;}
+.masodik { margin-right:40px; text-align: justify;}
+.harmadik { margin-right:40px; text-align: justify;}
+.wrapper {width:80%; margin-left:auto; margin-right: auto; display:flex;flex-direction:row; }
