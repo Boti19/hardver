@@ -10,3 +10,4 @@ nav {display:flex; flex-direction:row; justify-content:space-around; width:90%; 
 .masodik { margin-right:40px; text-align: justify;}
 .harmadik { margin-right:40px; text-align: justify;}
 .wrapper {width:80%; margin-left:auto; margin-right: auto; display:flex;flex-direction:row; }
+.picture {width:100%}
