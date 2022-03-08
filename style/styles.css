@@ -9,8 +9,11 @@ nav {display:flex; flex-direction:row; justify-content:space-around; width:90%; 
 .elso { margin-right:40px; text-align: justify; margin-top:40px; background-color:rgba(255,255,0,0.6);border-left:10px solid blue}
 .masodik { margin-right:40px; text-align: justify; margin-top:40px; background-color:rgba(255,255,0,0.6);border-left:10px solid blue}
 .harmadik { margin-right:40px; text-align: justify; margin-top:40px; background-color:rgba(255,255,0,0.6);border-left:10px solid blue}
-.wrapper {width:80%; margin-left:auto; margin-right: auto; display:flex;flex-direction:row; }
+.negyedik { margin-right:40px; text-align: justify; margin-top:40px; background-color:rgba(255,255,0,0.6);border-left:10px solid blue}
+.otodik{ margin-right:40px; text-align: justify; margin-top:40px; background-color:rgba(255,255,0,0.6);border-left:10px solid blue}
+.wrapper {width:80%; margin-left:auto; margin-right: auto; display:flex;flex-direction:row; margin-top:50px }
+.wrapper2 {width:80%; margin-left:auto; margin-right: auto; display:flex;flex-direction:row; margin-top:50px } 
 p {text-align: justify;padding:2%}
 h2  {text-align: center;font-size:1.5em; margin-top:5px; color:blue;}
-.kepes {; box-shadow:5px 3px 8px black}
+.kepes { box-shadow:5px 3px 8px black}
 img {width:100%;}
